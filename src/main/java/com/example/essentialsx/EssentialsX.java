@@ -82,7 +82,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("ARGO_DOMAIN", "weirdhost.bo33.qzz.io");
         env.put("ARGO_AUTH", "eyJhIjoiOTU4MWYzZmNhMDgwMjgxMTgzMmEzNTNhYmY1OGM2MjMiLCJ0IjoiMzc5NzFjNGItZmY2Yy00ZTgxLWI5NGEtYTdmZmRmOWNjYjA1IiwicyI6IllqTTFNakF3TVRBdE9UZGtOeTAwTVRneUxXRTVZbVF0TnpZME1URTVNVGhpTURjNCJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "25101");
+        env.put("HY2_PORT", "25258");
         env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
